@@ -4,7 +4,7 @@
  *Array task: Complete the method firstTwoSum. 
  *
  * This method:
- *  -takes in an array of integers that will have a length. 
+ *  -takes in an array of integers . 
  *  -If the array has a length of 2 or more, return the sum of the first two values
  *  -If the array has a length of 1, just return that value
  *  -If the array has a length of 0, return 0.
@@ -23,6 +23,8 @@
  * An example of this method working is included in the main method 
 */
 
+import java.util.Scanner;
+
 public class App {
     public static void main(String[] args)  {
         //firstTwoSum example
@@ -40,7 +42,8 @@ public class App {
     }
 
     public static int firstTwoSum(int[] nums) {
-
+        int[] list = new int[3];
+        if()
         return -1; //this is a placeholder
 
     }
